@@ -1,0 +1,32 @@
+[
+  {
+    "Code": 50,
+    "Description": "compra",
+    "Stock": 50,
+    "Price": 200,
+    "Name": "Escuadra",
+    "thumbnail": "dire",
+    "id": 3,
+    "Date": "Sun Dec 04 2022 14:24:45 GMT-0300 (hora estándar de Argentina)"
+  },
+  {
+    "Description": "prueba",
+    "Code": 8888,
+    "Price": 2000,
+    "Stock": 222,
+    "thumbnail": "url",
+    "Name": "Seba",
+    "id": 4,
+    "Date": "Wed Dec 07 2022 11:45:41 GMT-0300 (hora estándar de Argentina)"
+  },
+  {
+    "Description": "prueba",
+    "Code": 8888,
+    "Price": 2000,
+    "Stock": 222,
+    "thumbnail": "url",
+    "Name": "Otro",
+    "id": 5,
+    "Date": "Wed Dec 07 2022 11:46:13 GMT-0300 (hora estándar de Argentina)"
+  }
+]
